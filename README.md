@@ -6,7 +6,7 @@ Shanghui Deng, Xiao Zheng, Weiqing Yan, Kun Sun, Chang Tang, Xinwang Liu
 >**Published:**
 IEEE Transactions on Systems, Man and Cybernetics: Systems
 
-This repository contains simple pytorch implementation of our paper [IRIS]([https://doi.org/10.1109/TSMC.2026.3733490](https://doi.org/10.1109/TSMC.2026.3733490)).
+This repository contains simple pytorch implementation of our paper [IRIS](https://doi.org/10.1109/TSMC.2026.3733490).
 
 ### 1. Overview
 <p align="center">
