@@ -21,10 +21,7 @@ Train a new model:
 python main.py
 ````
 
-### 3. Datasets
-DHA, ESP-Game, COIL20, Flickr, IAPR-TC 12, Cora, BBCSport, and Wiki datasets can be downloaded from [Baidu Clouds](https://pan.baidu.com/).
-
-### 4. Citation
+### 3. Citation
 
 Please cite our paper if you find the work useful:
 ```
