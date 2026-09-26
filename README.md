@@ -10,7 +10,7 @@ This repository contains simple pytorch implementation of our paper [IRIS](https
 
 ### 1. Overview
 <p align="center">
-  <img src="./BIN_V2.png"/> <br/>
+  <img src="./IRIS.png"/> <br/>
 </p>
 
 ### 2. Usage
